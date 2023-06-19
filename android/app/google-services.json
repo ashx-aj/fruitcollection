@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "259194176970",
+    "project_id": "physioplay-9e057",
+    "storage_bucket": "physioplay-9e057.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259194176970:android:2e2db381c7cc8e53887b33",
+        "android_client_info": {
+          "package_name": "com.example.flutter_auth_page"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "259194176970-5hcreuf31js7nqmiabj8qsca7nca37ev.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAidKMbqcFyMqFil4wpUEWwbDNL3udBzLc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "259194176970-5hcreuf31js7nqmiabj8qsca7nca37ev.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "259194176970-kc1dgt557ds190na3u4j0msvf6qtjrbv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterAuthPage"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
