@@ -1,20 +1,7 @@
 <<<<<<< HEAD
-# fruitcollection
-=======
-# fruitgame
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
 >>>>>>> fruit
+=======
+# fruitcollection
+
+THe game control is based on shoulder movement. The movement is defined by angle by elbow,hip and shoulder coordinates.
+>>>>>>> 9c84821e2e7500c2b0549f3b034bfffc96ae6643
